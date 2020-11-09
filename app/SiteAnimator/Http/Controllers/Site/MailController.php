@@ -83,17 +83,10 @@ class MailController extends Controller
         try {
             //Server settings
             $mail->SMTPDebug = 0;                                 // Enable verbose debug output
-//            $mail->isSMTP();                                      // Set mailer to use SMTP
-//            $mail->Host = '37.34.58.234';                         // Specify main and backup SMTP servers
-//            $mail->SMTPAuth = true;                               // Enable SMTP authentication
-//            $mail->Username = 'id237';             // SMTP username
-//            $mail->Password = '3ytgh4yt7yF56TRHR';       // SMTP password
-//            $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
-//           $mail->Port = 587;                                    // TCP port to connect to
 
             //Recipients
             $mail->setFrom( env( 'SITE_ANIMATOR_EMAIL' ), 'Website' );
-            $mail->addAddress( 'borchef@gmail.com', 'Roberto' );     // Add a recipient
+            $mail->addAddress( '', 'Roberto' );     // Add a recipient
 
 
             // content
