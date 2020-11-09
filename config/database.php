@@ -49,9 +49,9 @@ return [
         'siteAnimator' => [
             'driver'    => 'mysql',
             'host'      => 'localhost',
-            'database'  => 'id237_site',
-            'username'  => 'id237_pleisterman',
-            'password'  => 'HHdTTDf&&f5e@1webbfudfraxsfttr22',
+            'database'  => '',
+            'username'  => '',
+            'password'  => '',
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',
