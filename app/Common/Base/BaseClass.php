@@ -1,7 +1,7 @@
 <?php
 
 /*
-        @package    Pleisterman/Website
+        @package    Pleisterman/Common
   
         file:       app/Http/Base/BaseClass.php
         function:   adds a debug function to the class
