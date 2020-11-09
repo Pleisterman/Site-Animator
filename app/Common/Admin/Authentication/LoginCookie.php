@@ -1,7 +1,7 @@
 <?php
 
 /*
-        @package    Pleisterman\CodeAnalyser
+        @package    Pleisterman\Common
   
         file:       LoginCookie.php
         function:   login cookies are created

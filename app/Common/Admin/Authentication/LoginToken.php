@@ -1,7 +1,7 @@
 <?php
 
 /*
-        @package    Pleisterman\CodeAnalyser
+        @package    Pleisterman\Common
   
         file:       LoginToken.php
         function:   

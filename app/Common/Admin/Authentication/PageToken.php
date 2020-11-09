@@ -1,7 +1,7 @@
 <?php
 
 /*
-        @package    Pleisterman\CodeAnalyser
+        @package    Pleisterman\Common
   
         file:       PageToken.php
         function:   

@@ -1,7 +1,7 @@
 <?php
 
 /*
-        @package    Pleisterman\CodeAnalyser
+        @package    Pleisterman\Common
   
         file:       LoginName.php
         function:   
